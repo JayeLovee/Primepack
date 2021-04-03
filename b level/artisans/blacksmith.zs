@@ -1,7 +1,6 @@
 import mods.artisanworktables.builder.RecipeBuilder;
 import crafttweaker.item.IItemStack;
 
-/*
 val armourRemove = [
     <minecraft:chainmail_chestplate>,
     <minecraft:iron_chestplate>,
@@ -363,4 +362,3 @@ for toolShovel, itemMat in shovels{
 	.addTool(<ore:artisansHammer>, 3)
 	.create();
 }
-*/
