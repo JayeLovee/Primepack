@@ -1,5 +1,6 @@
 import crafttweaker.item.IItemStack;
 recipes.removeByMod("pickletweaks");
+
 /*
 val plates = [
     <pickletweaks:metal>,
@@ -23,9 +24,8 @@ for plate in plates{
     );
 }
 */
-/*
+
 recipes.addShaped(
     <pickletweaks:grass_mesh>, [
         [<ore:stickWood>, <primal:plant_cloth>], 
         [<primal:plant_cloth>, <ore:stickWood>]]);
-        */
