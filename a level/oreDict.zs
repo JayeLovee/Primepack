@@ -33,4 +33,4 @@ for peltItem in wolfPelts{
 <ore:peltLarge>.add(<totemic:buffalo_items>);
 <ore:peltSmall>.add(<mysticalworld:pelt>);
 
-/*
+*/
