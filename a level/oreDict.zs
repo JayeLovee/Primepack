@@ -5,7 +5,7 @@ import crafttweaker.item.IItemStack;
 <ore:oreDictEntGoesHere>.add(<item>);
 
 */
-/*
+
 val gourds = [
     <eerieentities:pumpkin_creeper>,
     <eerieentities:pumpkin_owo>,
@@ -32,5 +32,3 @@ for peltItem in wolfPelts{
 
 <ore:peltLarge>.add(<totemic:buffalo_items>);
 <ore:peltSmall>.add(<mysticalworld:pelt>);
-
-*/
