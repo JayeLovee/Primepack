@@ -30,7 +30,6 @@ ChoppingBlock.remove(<minecraft:planks:3>);
 ChoppingBlock.remove(<minecraft:planks:4>);
 ChoppingBlock.remove(<minecraft:planks:5>);
 
-/*
 val dyeNum = 2;
 val dyeTurn = 16;
 
@@ -252,7 +251,6 @@ val roots = {
 val limestones = [
     <primal:carbonate_stone>,
     <quark:limestone>,
-    //<magneticraft:limestone>
 ] as IItemStack[];
 
 for flower in flowerWhite{
@@ -399,5 +397,3 @@ for limestone in limestones{
         dyeTurn
     );
 }
-
-*/
