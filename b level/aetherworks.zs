@@ -3,7 +3,6 @@ import mods.artisanworktables.builder.RecipeBuilder;
 
 recipes.removeByMod("aetherworks");
 
-/*
 val removals = [
     <aetherworks:item_pickaxe_aether>,
     <aetherworks:item_pickaxe_ember>,
@@ -68,10 +67,6 @@ for bow, bowHead in bows{
 	.create();
 }
 
-//aetherworks:aetherium_gas
-
 for block in multiBlocks{
     block.addTooltip("If structure doesn't update texture, reload.");
 }
-
-*/
