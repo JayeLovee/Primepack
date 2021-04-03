@@ -23,8 +23,9 @@ for plate in plates{
     );
 }
 */
-
+/*
 recipes.addShaped(
     <pickletweaks:grass_mesh>, [
         [<ore:stickWood>, <primal:plant_cloth>], 
         [<primal:plant_cloth>, <ore:stickWood>]]);
+        */
