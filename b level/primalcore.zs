@@ -19,7 +19,6 @@ recipes.addShaped(
         [in]]);
 */
 
-/*
 recipes.addShapeless(
     <primal:plant_cloth>, [
         <primal:plant_fiber>, <primal:plant_fiber>, 
@@ -83,4 +82,3 @@ recipes.addShapeless(
 recipes.addShapeless(
     <primal:hide_raw> * 2, [
         <ore:peltSmall>, <ore:toolWorkblade>.anyDamage().transformDamage(1)]);
-        */
