@@ -114,7 +114,6 @@ recipes.remove(
 );
 */
 
-/*
 recipes.addShapeless(
     <minecraft:book>, [
         <ore:paper>, <ore:paper>, 
@@ -131,4 +130,3 @@ recipes.addShapeless(
     <minecraft:flint>, [
         <ore:gravel>, <ore:gravel>, 
         <ore:gravel>, <pickletweaks:grass_mesh>.anyDamage().transformDamage(1)]);
-        */
