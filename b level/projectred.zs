@@ -1,0 +1,11 @@
+import crafttweaker.item.IItemStack;
+recipes.removeByMod("projectred-compat");
+recipes.removeByMod("projectred-core");
+recipes.removeByMod("projectred-expansion");
+recipes.removeByMod("projectred-exploration");
+recipes.removeByMod("projectred-fabrication");
+recipes.removeByMod("projectred-illumination");
+recipes.removeByMod("projectred-integration");
+recipes.removeByMod("projectred-relocation");
+recipes.removeByMod("projectred-transmission");
+recipes.removeByMod("projectred-transportation");
